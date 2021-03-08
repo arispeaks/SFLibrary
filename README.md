@@ -30,7 +30,9 @@ SF_Library_Project.ipynb | Jupyter Notebook that summarizes data analysis
 My findings are summarized [here](https://arianahusain.medium.com/i-want-that-book-a-look-at-sf-library-data-f49a9f74ba9a)
 
 ## Licensing, Authors, Acknowledgements
-All data and licensing can be found on the [DataSF website](https://data.sfgov.org/Culture-and-Recreation/Library-Usage/qzz6-2jup). 
+Licensing for any data can be found on the [DataSF website](https://data.sfgov.org/Culture-and-Recreation/Library-Usage/qzz6-2jup). 
+Code snippets from Udacity Data Science course were used as a basis for the modeling functions. 
+
 
 
 
