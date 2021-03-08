@@ -1,8 +1,7 @@
 # San Francisco (SF) Library User Information
 
-Summary
-An analysis of the activities of SF library users as defined by their patron type, home library and other 
-information. This project consist of a csv file with the raw data  as provided by the city of SF via Kaggel and a Jupyter notebook that walks through and summarizes the analysis.
+This is an exploratory analysis of the activities of SF library users as defined by their age range, home library and other 
+information. This project consists of a csv file with the raw data as provided by the city of SF their open source website ([DataSF](https://datasf.org/)) and a Jupyter notebook that walks through and summarizes the code that supports any findings.
 
 
 ## Installation
@@ -19,19 +18,21 @@ I am an avid reader of sci-fi who found myself perpetually "on hold" when checki
 
 
 ## File Descriptions
-
-Folder/File Name    |  Description
-data_raw               raw data collected from DataSF website
-                       includes data dictionary
-figures                jpeg captures of graphs produced during explaratory analysis
-SF_Library_Project.ipynb  Jupyter Notebook summarize data analysis
+ 
+|Folder/File Name    |  Description |
+| -------------------| -------------|
+data_raw              | raw data collected from DataSF website includes data dictionary
+figures                |jpeg captures of graphs produced during explaratory analysis
+SF_Library_Project.ipynb | Jupyter Notebook that summarizes data analysis
 
 ## Results
 
-My findings are summarized here
+My findings are summarized [here](https://arianahusain.medium.com/i-want-that-book-a-look-at-sf-library-data-f49a9f74ba9a)
 
 ## Licensing, Authors, Acknowledgements
-All data and licensing can be found on the DataSF website. 
+Licensing for any data can be found on the [DataSF website](https://data.sfgov.org/Culture-and-Recreation/Library-Usage/qzz6-2jup). 
+Code snippets from Udacity Data Science course were used as a basis for the modeling functions. 
+
 
 
 
